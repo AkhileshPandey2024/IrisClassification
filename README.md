@@ -1,2 +1,2 @@
 # IrisClassification
-Machine Learning classification based on Iris Dataset
+Machine Learning classification Algorithm based on Iris Dataset.

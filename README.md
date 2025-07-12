@@ -61,5 +61,4 @@ Confusion Matrix Example (SVM):
 
 ---
 
-## 📁 Project Structure
 

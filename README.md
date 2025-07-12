@@ -3,7 +3,7 @@
 This project focuses on building and evaluating multiple machine learning models to classify iris flowers into three species: *Setosa*, *Versicolor*, and *Virginica* based on petal and sepal features from the famous Iris dataset.
 
 ![Iris Flower](https://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg)  
-*Image Source: Wikipedia - Iris versicolor*
+
 
 ---
 
